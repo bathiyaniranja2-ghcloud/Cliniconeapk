@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "versionCode": 1,
+    "apkUrl": "https://github.com/Khubchand123/clinicone-release/releases/download/clinicone/ClinicOne.apk",
+    "changelog": [
+        "Initial release",
+        "Patient management", 
+        "QR code scanning",
+        "Drug inventory management"
+    ],
+    "forceUpdate": false
+}
