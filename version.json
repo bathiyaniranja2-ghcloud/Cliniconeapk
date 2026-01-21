@@ -1,7 +1,7 @@
 {
-    "version": "1.0.5",
+    "version": "1.0.0",
     "versionCode": 1,
-    "apkUrl": "https://github.com/bathiyaniranja2-ghcloud/Cliniconeapk/releases/download/clinicone/ClinicOne.apk",
+    "apkUrl": "https://github.com/bathiyaniranja2-ghcloud/Cliniconeapk/releases/download/release/ClinicOne.apk",
     "changelog": [
         "Initial release",
         "Patient management", 
